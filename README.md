@@ -1,8 +1,8 @@
 # Railway-Reservation-System
 
-# Reg No:
-# Name:
-# Date:
+# Reg No:212223040171
+# Name:ROHAN J
+# Date:26.04.2025
 
 
 # AIM:
@@ -39,6 +39,7 @@ Specifying the context and requirements of a system
 → Modeling the basic flow of events in a sina use case.
 
 
+![377959035-00107223-5f90-4870-bd7c-6ea04bea3596](https://github.com/user-attachments/assets/29a56b52-9d95-470e-8b1a-e40c144e69de)
 
 
 
@@ -57,26 +58,7 @@ Better understand the general overview of the schematics of an application.
 Visually express any specific needs of a system and disseminate that information throughout the business.
 
 Create detailed charts that…
-
-
-
-# COMMUNICTION DIAGRAM:
-
-A communication diagram offers the same information as a sequence diagram, but while a sequence diagram emphasizes the time and order of events, a communication diagram emphasizes the messages exchanged between objects in an application. Sequence diagrams can fall short of offering the "big picture."
-
-Communication diagrams offer benefits similar to sequence diagrams, but they will offer a better understanding of how components communicate and interact with each other rather than solely emphasizing the sequence of events. They can be a useful reference for businesses, organizations, and engineers who need to visualize and understand the physical communications within a program. Try drawing a sequence diagram to:
-
-
-
-
-# PACKAGE DIAGRAM:
-
-Package diagrams are structural diagrams used to show the organization and arrangement of various model elements in the form of packages. A package is a grouping of related UML elements, such as diagrams, documents, classes, or even other packages. Each element is nested within the package, which is depicted as a file folder within the diagram, then arranged hierarchically within the diagram. Package diagrams are most commonly used to provide a visual
-
-organization of the layered architecture within any UML classifier, such as a software system.
-
-A well-designed package diagram provides numerous benefits to those looking to create a visualization of their UML system or project.
-
+![377959354-5bd17bff-d6c3-4f7e-82cf-33b5640f9cfc](https://github.com/user-attachments/assets/0f0ea3f0-5355-4978-8759-af9db08f59f2)
 
 
 
@@ -96,6 +78,7 @@ Demonstrate the logic of an algorithm.
 
 Describe the steps performed in a UML use case.
 
+![377959279-a66b2e6e-eb1c-4558-ae19-876bdb91d27b](https://github.com/user-attachments/assets/ed12172a-3f4d-4e47-b799-08fc3838c73e)
 
 
 
@@ -118,6 +101,7 @@ Model the logic of a sophisticated procedure, function, or operation. See how ob
 Plan and understand the detailed functionality of an existing or future scenario.
 
 
+![377959093-b5428a55-8120-4228-8dec-48dde94433f0](https://github.com/user-attachments/assets/ce30edd6-1648-4cdd-abe7-5f9af7f6929f)
 
 
 
